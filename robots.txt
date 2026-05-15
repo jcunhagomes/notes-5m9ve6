@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jcunhagomes.github.io/notes-5m9ve6/sitemap.xml
